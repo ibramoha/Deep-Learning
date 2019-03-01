@@ -12,7 +12,7 @@ with open('iam_dataset/forms_for_parsing.txt') as f:
 
 
 print(d)
-print(hello)
+print('hello')
 print(len(d))
 
 #make a counter to count num of writers
